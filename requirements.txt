@@ -1,0 +1,8 @@
+beautifulsoup4
+pymongo
+google-genai
+rich
+pypdf
+python-dotenv
+requests
+matplotlib

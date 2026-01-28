@@ -1,0 +1,24 @@
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# Outputs
+GENERATED_FILES/
+assets/html/
+assets/reports/
+
+# Private data
+assets/cv/
+
+# OS
+.DS_Store
+Thumbs.db
