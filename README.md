@@ -1,8 +1,9 @@
 # Gem Hunter
 
-https://github.com/wojciechsacewicz/Gem-Hunter/blob/main/screenshot.png
+![screenshot of the CLI]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png ](https://github.com/wojciechsacewicz/Gem-Hunter/blob/main/screenshot.png)"Gem Hunter Main Menu")
 
-Version: Beta 1.0
+
+Version: 1.0 (that will never get updated)
 
 Projekt zaliczeniowy na przedmiot „Nierelacyjne bazy danych” (UG, Informatyka i Ekonometria, semestr 3).
 
