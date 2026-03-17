@@ -1,5 +1,7 @@
 # Gem Hunter
 
+https://github.com/wojciechsacewicz/Gem-Hunter/blob/main/screenshot.png
+
 Version: Beta 1.0
 
 Projekt zaliczeniowy na przedmiot „Nierelacyjne bazy danych” (UG, Informatyka i Ekonometria, semestr 3).
