@@ -1,3 +1,8 @@
+# Check out the rewrite! https://github.com/wojciechsacewicz/gem-hunter-2
+
+
+
+
 # Gem Hunter
 
 ![screenshot of the CLI](https://github.com/wojciechsacewicz/Gem-Hunter/blob/main/screenshot.png "Gem Hunter Main Menu")
