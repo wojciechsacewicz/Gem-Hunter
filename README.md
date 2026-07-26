@@ -1,13 +1,6 @@
-# Check out the rewrite! https://github.com/wojciechsacewicz/gem-hunter-2
-
-
-
-
 # Gem Hunter
 
-![screenshot of the CLI](https://github.com/wojciechsacewicz/Gem-Hunter/blob/main/screenshot.png "Gem Hunter Main Menu")
-
-Version: 1.0 (that will never get updated)
+![screenshot of the CLI](https://github.com/wojciechsacewicz/Gem-Hunter/blob/main/screenshot.png "Gem Hunter Main Menu")
 
 Projekt zaliczeniowy na przedmiot „Nierelacyjne bazy danych” (UG, Informatyka i Ekonometria, semestr 3).
 
